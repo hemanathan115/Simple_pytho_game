@@ -4,3 +4,9 @@ How to code a snake game in Python for beginners! Learn how to create a game of 
 
 ## 2.python car game 
 This is a 2D racing game built using Pygame, where the player controls a blue car on a track decorated with flowers on both sides.The goal is to avoid colliding with AI cars while scoring points as they pass.Players can move left or right using arrow keys or on-screen buttons.A 3-second countdown starts the race with colorful “GO!” animation.The game includes a score display, restart, and quit buttons.On collision, a Game Over screen appears showing the player’s score.
+
+🧩 Module Install Name
+
+✅ Module name to install:
+
+pip install pygame
