@@ -10,6 +10,25 @@ How to code a snake game in Python for beginners! Learn how to create a game of 
 ## 2.python car game 
 This is a 2D racing game built using Pygame, where the player controls a blue car on a track decorated with flowers on both sides.The goal is to avoid colliding with AI cars while scoring points as they pass.Players can move left or right using arrow keys or on-screen buttons.A 3-second countdown starts the race with colorful “GO!” animation.The game includes a score display, restart, and quit buttons.On collision, a Game Over screen appears showing the player’s score.
 
+
+## Real Flight Shooter
+
+Real Flight Shooter is a 2D arcade-style shooting game built with Python and Pygame. Players control a colorful flight aircraft that automatically shoots bullets at incoming enemies. The game features a dynamic starry background, power-ups that temporarily enhance shooting speed or increase points, and interactive on-screen buttons for movement and menu navigation. Players aim to survive as long as possible, destroying enemies to increase their score while avoiding collisions. The game includes a countdown, a main menu, and a game-over screen with options to restart or quit.
+
+## Key Features
+
+Automatic shooting with optional power-ups.
+
+Multiple enemy types that move downward at varying speeds.
+
+Collectible power-ups for faster shooting or bonus points.
+
+Smooth flight movement using keyboard or on-screen buttons.
+
+Starry animated background for visual depth.
+
+Interactive main menu and game-over screen with restart functionality.
+
 ✅ Module name to install:
 
 <code>pip install pygame</code>
